@@ -1,7 +1,7 @@
 ## halo deck👋
 
 <!--
-**izzstores/izzstores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**izzstoress/izzstoress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -24,7 +24,13 @@ Here are some ideas to get you started:
 ![https://instagram.com/faiz_snk](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/izzstore/izzstore/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/izzstore/izzstore/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/izzstore/izzstore/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/izzstores/izzstores/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/izzstores/izzstores/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/izzstores/izzstores/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/izzstores/izzstores/output/snake.svg" alt="Snake animation" />
+
+###
